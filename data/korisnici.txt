@@ -1,0 +1,2 @@
+pera|pera123|Petar|Jocic|prodavac
+mika|mika123|Mika|Petrovic|menadzer

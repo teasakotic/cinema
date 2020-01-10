@@ -1,0 +1,4 @@
+F1|Rambo|Akcioni
+F2|Pepeljuga|Deciji
+F3|Mrak|Horor
+F4|Ljubav|Romanticni
